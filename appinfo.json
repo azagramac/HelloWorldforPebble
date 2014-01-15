@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "0c45956c-437e-44c1-ad8a-ad4f9123a9fe",
+    "appKeys": {},
+    "longName": "Hola Mundo",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Hola Mundo",
+    "companyName": "Jose l. Azagra",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
