@@ -1,7 +1,6 @@
 HelloWorld for Pebble
 ===================
 
-
 <br />
 
 <p align="center">
@@ -11,7 +10,6 @@ HelloWorld for Pebble
 ## Sample WatchApp Pebble
 
 - View text screen Pebble.
-
 
 ## Requirements
 
