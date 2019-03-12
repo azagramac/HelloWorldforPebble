@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/azagramac/HelloWorldforPebble.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/HelloWorldforPebble/master.svg)
+
 HelloWorld for Pebble
 ===================
 
